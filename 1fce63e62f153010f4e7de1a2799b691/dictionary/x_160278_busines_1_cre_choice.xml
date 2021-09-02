@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="CRE Choice" max_length="40" name="x_160278_busines_1_cre_choice" sizeclass="3" type="collection">
+        <element label="Catalog Item" max_length="32" name="catalog_item" reference="sc_cat_item" type="reference"/>
+        <element display="true" label="Name" max_length="255" name="name" type="string_full_utf8"/>
+        <element label="Odrer" max_length="40" name="odrer" type="integer"/>
+        <element label="Value" max_length="1000" name="value" type="string"/>
+        <element label="Variable" max_length="32" name="variable" reference="item_option_new" type="reference"/>
+        <element label="Variable Set" max_length="32" name="variable_set" reference="item_option_new_set" type="reference"/>
+        <index name="index">
+            <element name="variable_set"/>
+        </index>
+        <index name="index2">
+            <element name="catalog_item"/>
+        </index>
+        <index name="index3">
+            <element name="variable"/>
+        </index>
+    </element>
+</database>

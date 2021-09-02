@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>listConfigId</name>
+        <page display_value="Business-Led IT Solutions">e02f5ca5186d7010ea2c31e490c0df0d</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-24 07:13:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>2c2f5ca5336d7010c2e4bd30320a350d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="Business-Led IT Solution" source="x_160278_busines_1">1fce63e62f153010f4e7de1a2799b691</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Business-Led IT Solution">1fce63e62f153010f4e7de1a2799b691</sys_scope>
+        <sys_update_name>sys_ux_page_property_2c2f5ca5336d7010c2e4bd30320a350d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-24 07:13:02</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_160278_busines_1.e02f5ca5186d7010ea2c31e490c0df0d.root.listConfigId</unique_name>
+        <value>452f5ca52f6d7010f4e7de1a2799b642</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=2c2f5ca5336d7010c2e4bd30320a350d"/>
+</record_update>
